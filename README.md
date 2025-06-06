@@ -14,8 +14,7 @@ This project is part of my graduate-level Data Visualization course (BUA 610) at
 ## 🛠️ How Did I Make This?
 
 - **Power Query**: (Cleaned raw MegaStore data, parsed columns, and created structured data models for analysis)
-- **Excel Timeline Slicer**: (Enabled dynamic filtering across quarters)
-- **PivotTables & Charts**: (Built visuals including bar charts, column charts, and KPIs)
+- **PowerPivot**: (Built visuals including bar charts, column charts, and KPIs)
 
 ---
 
